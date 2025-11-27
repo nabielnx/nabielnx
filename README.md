@@ -1,6 +1,6 @@
-## 👋 Hi there! I'm lowwyi
+## 👋 Hi there! I'm nabielnx
 
-I'm a Informatics Engineering student, deeply enthusiastic about *AI Engineering* and *Full-Stack Development*. I love turning complex ideas (especially in AI) into real, functional, and automated solutions.
+I'm a Informatics Engineering student, deeply enthusiastic about *AI Engineering* and *Full-Stack Development*. I love turning complex ideas (especially in Games) into real, functional, and automated solutions.
 
 ---
 
@@ -34,7 +34,7 @@ This is the technology I'm actively using and learning:
 
 (These stats update automatically!)
 
-![Lowwyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowwyi&show_icons=true&theme=dark&rank_icon=github)
+![nabielnx GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowwyi&show_icons=true&theme=dark&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lowwyi&layout=compact&theme=dark)
 
