@@ -1,41 +1,53 @@
-## 👋 Hi there! I'm nabielnx
+## 👋 Hi there! I'm **nabielnx**
 
-I'm a Informatics Engineering student, deeply enthusiastic about *AI Engineering* and *Full-Stack Development*. I love turning complex ideas (especially in Games) into real, functional, and automated solutions.
-
----
-
-### 🚀 What I'm Currently Building:
-
-* 🤖 An autonomous *AI Agent* as a personal passion project. I'm focused on giving LLMs "hands and feet" by integrating them with external tools and data (RAG + Finetuning).
-* ☕ A *full-stack web application* (PHP/Laravel) for a local business.
-* 🛠 A collaborative university project (UAS) for a client's website, where I'm handling the *frontend* development.
-* ✈ My public-facing **travel-chatbot** and **demo-streamlit-chatbot** (check them out in my repos!).
+I'm an **Informatics Engineering student** and a passionate **Software, Web, and Game Developer**.  
+I love turning ideas into real, working systems—especially those that blend **AI**, **automation**, and **game mechanics**.
 
 ---
 
-### 💻 My Current Tech Stack:
+### 🎮 What I'm Currently Building
 
-This is the technology I'm actively using and learning:
+- 🕹 **Indie Game Projects** — learning gameplay architecture, physics, and AI for NPCs.
+- 🤖 **AI Engineering Experiments** — building AI agents using LLMs (tool-use, RAG, fine-tuning).
+- 🌐 **Full-Stack Web Projects** — Laravel, PHP, and modern frontend for real clients.
+- 🧪 **University Projects** — handling frontend and systems for team-based software projects.
+
+---
+
+### 🚀 Tech Stack (What I Use Daily)
+
+**Game Development:**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+**AI & Backend:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Langchain](https://img.shields.io/badge/LangChain-009688?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Web Development:**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Database & Tools:**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+### 📊 GitHub Stats (Auto-Updated)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabielnx&show_icons=true&theme=dark&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabielnx&layout=compact&theme=dark)
 
 ---
 
-### 📊 My GitHub Stats:
+> “Small progress every day adds up to massive results.”
 
-(These stats update automatically!)
-
-![nabielnx GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowwyi&show_icons=true&theme=dark&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lowwyi&layout=compact&theme=dark)
-
-> "1% progress is better than no progress at all."
