@@ -13,11 +13,11 @@ that turn ideas into **real, scalable products**.
 
 ---
 
-### 🚀 Core Interests
-🎮 Game Systems & AI  
-🤖 AI Engineering & Agents  
-🌐 Full-Stack Web Development  
-⚙️ Automation & System Design  
+<p align="center">
+    <a href="https://youtube.com/@deaafrizal">
+      <img src="https://render.gitanimals.org/lines/deaafrizal?pet-id=657051833278790750" width="600" height="120" />
+    </a>
+</p>
 
 </div>
 
