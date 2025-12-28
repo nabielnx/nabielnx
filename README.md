@@ -14,7 +14,7 @@ that turn ideas into **real, scalable products**.
 ---
 
 <p align="center">
-    <a href="https://youtube.com/@deaafrizal">
+    <a href="https://www.youtube.com/@muhammadzaimunnabil3508">
       <img src="https://render.gitanimals.org/lines/deaafrizal?pet-id=657051833278790750" width="600" height="120" />
     </a>
 </p>
