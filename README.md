@@ -75,6 +75,7 @@ that turn ideas into **real, scalable products**.
 ![](https://github-readme-stats.vercel.app/api?username=nabielnx&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nabielnx&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabielnx&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=Kanzen7&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
